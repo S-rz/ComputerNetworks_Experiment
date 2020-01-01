@@ -1,0 +1,2 @@
+﻿ChatRoomClientGUI.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  ChatRoomClientGUI.vcxproj -> D:\CSIE1601\My\network\shiyan\socket_test\socket\Debug\ChatRoomClientGUI.exe
